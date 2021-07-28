@@ -9,6 +9,7 @@ There are three sections in this project:
 -	 Using citipy API, I tried to scrape the following information for each city: latitudes & longitudes, max temperature, humidity, cloudiness, wind speed, weather description and country. Eventually, I successfully gathered information for 703 out of the 768 cities, put them into a DataFrame and exported to a csv file.
 
 The [Weather_DataBase.ipynb](https://github.com/weihaolun/world-weather-analysis/blob/a8e09f4cd1b3d400c020d4bb94238d93a755e377/Weather_Database/Weather_Database.ipynb) file
+
 The [WeatherPy_Database.csv](https://github.com/weihaolun/world-weather-analysis/blob/a8e09f4cd1b3d400c020d4bb94238d93a755e377/Weather_Database/WeatherPy_Database.csv) file
 
 
@@ -18,7 +19,9 @@ The [WeatherPy_Database.csv](https://github.com/weihaolun/world-weather-analysis
 -	 A map with marker and info box is generated for the vacation search. 
 
 The [Vacation_Search.ipynb](https://github.com/weihaolun/world-weather-analysis/blob/a8e09f4cd1b3d400c020d4bb94238d93a755e377/Vacation_Search/Vacation_Search.ipynb) file
+
 The [WeatherPy_vacation.csv](https://github.com/weihaolun/world-weather-analysis/blob/a8e09f4cd1b3d400c020d4bb94238d93a755e377/Vacation_Search/WeatherPy_vacation.csv) file
+
 The [WeatherPy_vacation_map.png](https://github.com/weihaolun/world-weather-analysis/blob/a8e09f4cd1b3d400c020d4bb94238d93a755e377/Vacation_Search/WeatherPy_vacation_map.png) image
 
 
@@ -28,6 +31,8 @@ The [WeatherPy_vacation_map.png](https://github.com/weihaolun/world-weather-anal
 -	 Lastly, map with marker and info box for only these four cities was created and exported.
 
 The [Vacation_Itinerary.ipynb](https://github.com/weihaolun/world-weather-analysis/blob/a8e09f4cd1b3d400c020d4bb94238d93a755e377/Vacation_Itinerary/Vacation_Itinerary.ipynb) file
+
 The [WeatherPy_travel_map.png](https://github.com/weihaolun/world-weather-analysis/blob/a8e09f4cd1b3d400c020d4bb94238d93a755e377/Vacation_Itinerary/WeatherPy_travel_map.png) image
+
 The [WeatherPy_travel_map_markers.png](https://github.com/weihaolun/world-weather-analysis/blob/a8e09f4cd1b3d400c020d4bb94238d93a755e377/Vacation_Itinerary/WeatherPy_travel_map_markers.png) image
 
