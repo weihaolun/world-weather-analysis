@@ -2,7 +2,7 @@
 
 PlanMyTrip app is a top travel technology company that specializes in internet related services in the Hotel and Lodging industry. Jack is the head of analysis for the user interface team. I have been helping Jack to collect and present data for customers based on their preferred criteria. 
 
-**There are three sections in this project. **
+There are three sections in this project:
 
 ## 1.	Create Weather Database
 -	 In this section, I generated 2000 pair of latitudes and longitudes and identified 768 cities from the coordinates.
