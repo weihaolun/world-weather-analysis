@@ -1,6 +1,6 @@
 # World Weather Analysis with Python & API
 
-PlanMyTrip app is a top travel technology company that specializes in internet related services in the Hotel and Lodging industry. Jack is the head of analysis for the user interface team. I have been helping Jack to collect and present data for customers based on their preferred criteria. The final purpose of the project is to recommond a travel itinerary of four cities to users.
+PlanMyTrip app is a top travel technology company that specializes in internet related services in the Hotel and Lodging industry. Jack is the head of analysis for the user interface team. I have been helping Jack to collect and present data for customers based on their preferred criteria. The final purpose of this project is to recommond a travel itinerary of four cities to users.
 
 There are three sections in this project:
 
