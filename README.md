@@ -14,7 +14,7 @@ The [WeatherPy_Database.csv](https://github.com/weihaolun/world-weather-analysis
 
 
 ## 2.	Vacation Search
--	 703 cities are narrowed down to 257 cities by applying a preference criterion: min and max temperature. 
+-	 703 cities are narrowed down to 222 cities by applying a preference criterion: min and max temperature. 
 -	 Using gmaps API, I found a hotel nearby each city and created a DataFrame to hold destination information and the hotel name. The DataFrame was exported as a csv file.
 -	 A map with marker and info box is generated for the vacation search. 
 
